@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Selamat Datang")
 st.write(
-    "Macam-macam Hewan"
+    "Macam-macam Hewan:"
 )
 st.image("IMG_0815.jpeg", width=200)
-st.write("Hewan Karnivora")
+st.write("1. Hewan Karnivora adalah hewan yang memakan daging hewan lainnya")
