@@ -19,4 +19,5 @@ if (angka % 2) == 0:
     st.write(f"{angka} adalah Bilangan Genap")
 else:
     st.write(f"{angka} adalah Bilangan Ganjil")
-    
+
+
